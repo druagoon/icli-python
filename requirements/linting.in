@@ -1,0 +1,5 @@
+black[colorama]
+isort[colors]
+mypy
+pre-commit
+ruff
